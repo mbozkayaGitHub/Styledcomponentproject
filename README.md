@@ -1,5 +1,20 @@
 # Huddle Landing Page (React & Styled Components)
 
+## Description
+
+Project aims to create a Landing Page App using styled-component.
+
+### At the end of the project, following topics are to be covered;
+
+- HTML
+
+- CSS
+
+- JS
+
+- ReactJS
+
+
 ## Project Skeleton
 ```
 |
